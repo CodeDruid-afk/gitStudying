@@ -2,9 +2,9 @@ package org.example.Database;
 import java.sql.*;
 
 public class DB {
-    private static final String url = "jdbc:postgresql://localhost:5432/postgres";
-    private static final String user = "postgres";
-    private static final String password = "2205";
+    private static final String url = "url_link";
+    private static final String user = "username";
+    private static final String password = "password";
     private static Connection connection;
     private DB(){}
 
